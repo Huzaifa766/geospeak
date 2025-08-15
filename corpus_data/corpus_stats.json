@@ -1,0 +1,42 @@
+{
+  "medical_large": {
+    "name": "medical_large",
+    "count": 64,
+    "domain": "medical",
+    "source": "custom",
+    "languages": [
+      "en",
+      "de",
+      "es",
+      "fr"
+    ],
+    "created_at": "2025-08-15T16:43:01.894308",
+    "file_size_mb": 0.01
+  },
+  "tatoeba_large": {
+    "name": "tatoeba_large",
+    "count": 29,
+    "domain": "conversational",
+    "source": "tatoeba",
+    "languages": [
+      "en",
+      "de",
+      "es",
+      "fr"
+    ],
+    "created_at": "2025-08-15T16:43:11.936178",
+    "file_size_mb": 0.0
+  },
+  "opus100_en_es": {
+    "name": "opus100_en_es",
+    "count": 50000,
+    "domain": "general",
+    "source": "opus100",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "created_at": "2025-08-15T16:43:45.493784",
+    "file_size_mb": 8.16
+  }
+}

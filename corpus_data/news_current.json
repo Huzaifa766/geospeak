@@ -1,0 +1,77 @@
+{
+  "name": "news_current",
+  "data": [
+    {
+      "en": "Breaking news",
+      "es": "Noticias de última hora",
+      "fr": "Dernières nouvelles",
+      "de": "Eilmeldung",
+      "ur": "تازہ خبریں"
+    },
+    {
+      "en": "Economic forecast",
+      "es": "Pronóstico económico",
+      "fr": "Prévisions économiques",
+      "de": "Wirtschaftsprognose",
+      "ur": "معاشی پیشن گوئی"
+    },
+    {
+      "en": "Climate change",
+      "es": "Cambio climático",
+      "fr": "Changement climatique",
+      "de": "Klimawandel",
+      "ur": "موسمیاتی تبدیلی"
+    },
+    {
+      "en": "Election results",
+      "es": "Resultados electorales",
+      "fr": "Résultats des élections",
+      "de": "Wahlergebnisse",
+      "ur": "انتخابی نتائج"
+    },
+    {
+      "en": "International relations",
+      "es": "Relaciones internacionales",
+      "fr": "Relations internationales",
+      "de": "Internationale Beziehungen",
+      "ur": "بین الاقوامی تعلقات"
+    },
+    {
+      "en": "Scientific research",
+      "es": "Investigación científica",
+      "fr": "Recherche scientifique",
+      "de": "Wissenschaftliche Forschung",
+      "ur": "سائنسی تحقیق"
+    },
+    {
+      "en": "Public health",
+      "es": "Salud pública",
+      "fr": "Santé publique",
+      "de": "Öffentliche Gesundheit",
+      "ur": "عوامی صحت"
+    },
+    {
+      "en": "Educational system",
+      "es": "Sistema educativo",
+      "fr": "Système éducatif",
+      "de": "Bildungssystem",
+      "ur": "تعلیمی نظام"
+    },
+    {
+      "en": "Environmental protection",
+      "es": "Protección ambiental",
+      "fr": "Protection de l'environnement",
+      "de": "Umweltschutz",
+      "ur": "ماحولیاتی تحفظ"
+    },
+    {
+      "en": "Technology advancement",
+      "es": "Avance tecnológico",
+      "fr": "Avancement technologique",
+      "de": "Technologischer Fortschritt",
+      "ur": "ٹیکنالوجی کی ترقی"
+    }
+  ],
+  "created_at": "2025-08-15T17:34:49.347981",
+  "count": 10
+}

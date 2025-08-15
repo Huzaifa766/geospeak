@@ -1,0 +1,77 @@
+{
+  "name": "medical_terminology",
+  "data": [
+    {
+      "en": "Blood pressure",
+      "es": "Presión arterial",
+      "fr": "Tension artérielle",
+      "de": "Blutdruck",
+      "ur": "بلڈ پریشر"
+    },
+    {
+      "en": "Heart rate",
+      "es": "Frecuencia cardíaca",
+      "fr": "Rythme cardiaque",
+      "de": "Herzfrequenz",
+      "ur": "دل کی رفتار"
+    },
+    {
+      "en": "Take this medication twice daily",
+      "es": "Tome este medicamento dos veces al día",
+      "fr": "Prenez ce médicament deux fois par jour",
+      "de": "Nehmen Sie dieses Medikament zweimal täglich",
+      "ur": "یہ دوا روزانہ دو بار لیں"
+    },
+    {
+      "en": "You need to rest",
+      "es": "Necesitas descansar",
+      "fr": "Vous devez vous reposer",
+      "de": "Du musst dich ausruhen",
+      "ur": "آپ کو آرام کرنا چاہیے"
+    },
+    {
+      "en": "Emergency room",
+      "es": "Sala de emergencias",
+      "fr": "Salle d'urgence",
+      "de": "Notaufnahme",
+      "ur": "ایمرجنسی روم"
+    },
+    {
+      "en": "Medical history",
+      "es": "Historia médica",
+      "fr": "Antécédents médicaux",
+      "de": "Krankengeschichte",
+      "ur": "طبی تاریخ"
+    },
+    {
+      "en": "Prescription",
+      "es": "Receta médica",
+      "fr": "Ordonnance",
+      "de": "Rezept",
+      "ur": "نسخہ"
+    },
+    {
+      "en": "Symptoms",
+      "es": "Síntomas",
+      "fr": "Symptômes",
+      "de": "Symptome",
+      "ur": "علامات"
+    },
+    {
+      "en": "Diagnosis",
+      "es": "Diagnóstico",
+      "fr": "Diagnostic",
+      "de": "Diagnose",
+      "ur": "تشخیص"
+    },
+    {
+      "en": "Treatment",
+      "es": "Tratamiento",
+      "fr": "Traitement",
+      "de": "Behandlung",
+      "ur": "علاج"
+    }
+  ],
+  "created_at": "2025-08-15T17:34:49.346960",
+  "count": 10
+}

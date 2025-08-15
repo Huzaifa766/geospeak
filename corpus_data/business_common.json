@@ -1,0 +1,77 @@
+{
+  "name": "business_common",
+  "data": [
+    {
+      "en": "Schedule a meeting",
+      "es": "Programar una reunión",
+      "fr": "Planifier une réunion",
+      "de": "Ein Meeting planen",
+      "ur": "میٹنگ کا وقت مقرر کریں"
+    },
+    {
+      "en": "Business proposal",
+      "es": "Propuesta comercial",
+      "fr": "Proposition commerciale",
+      "de": "Geschäftsvorschlag",
+      "ur": "کاروباری تجویز"
+    },
+    {
+      "en": "Revenue growth",
+      "es": "Crecimiento de ingresos",
+      "fr": "Croissance des revenus",
+      "de": "Umsatzwachstum",
+      "ur": "آمدنی میں اضافہ"
+    },
+    {
+      "en": "Market analysis",
+      "es": "Análisis de mercado",
+      "fr": "Analyse de marché",
+      "de": "Marktanalyse",
+      "ur": "مارکیٹ کا تجزیہ"
+    },
+    {
+      "en": "Customer service",
+      "es": "Servicio al cliente",
+      "fr": "Service client",
+      "de": "Kundendienst",
+      "ur": "کسٹمر سروس"
+    },
+    {
+      "en": "Financial report",
+      "es": "Informe financiero",
+      "fr": "Rapport financier",
+      "de": "Finanzbericht",
+      "ur": "مالی رپورٹ"
+    },
+    {
+      "en": "Project deadline",
+      "es": "Fecha límite del proyecto",
+      "fr": "Date limite du projet",
+      "de": "Projekttermin",
+      "ur": "پروجیکٹ کی آخری تاریخ"
+    },
+    {
+      "en": "Budget allocation",
+      "es": "Asignación de presupuesto",
+      "fr": "Allocation budgétaire",
+      "de": "Budgetzuweisung",
+      "ur": "بجٹ کی تقسیم"
+    },
+    {
+      "en": "Strategic planning",
+      "es": "Planificación estratégica",
+      "fr": "Planification stratégique",
+      "de": "Strategische Planung",
+      "ur": "اسٹریٹجک پلاننگ"
+    },
+    {
+      "en": "Quality assurance",
+      "es": "Aseguramiento de calidad",
+      "fr": "Assurance qualité",
+      "de": "Qualitätssicherung",
+      "ur": "معیار کی یقین دہانی"
+    }
+  ],
+  "created_at": "2025-08-15T17:34:49.347285",
+  "count": 10
+}

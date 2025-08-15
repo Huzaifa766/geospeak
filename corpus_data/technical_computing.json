@@ -1,0 +1,77 @@
+{
+  "name": "technical_computing",
+  "data": [
+    {
+      "en": "Database connection",
+      "es": "Conexión a base de datos",
+      "fr": "Connexion à la base de données",
+      "de": "Datenbankverbindung",
+      "ur": "ڈیٹابیس کنکشن"
+    },
+    {
+      "en": "Software development",
+      "es": "Desarrollo de software",
+      "fr": "Développement logiciel",
+      "de": "Softwareentwicklung",
+      "ur": "سافٹ ویئر ڈیولپمنٹ"
+    },
+    {
+      "en": "Machine learning algorithm",
+      "es": "Algoritmo de aprendizaje automático",
+      "fr": "Algorithme d'apprentissage automatique",
+      "de": "Algorithmus für maschinelles Lernen",
+      "ur": "مشین لرننگ الگورتھم"
+    },
+    {
+      "en": "User interface",
+      "es": "Interfaz de usuario",
+      "fr": "Interface utilisateur",
+      "de": "Benutzeroberfläche",
+      "ur": "یوزر انٹرفیس"
+    },
+    {
+      "en": "System administrator",
+      "es": "Administrador del sistema",
+      "fr": "Administrateur système",
+      "de": "Systemadministrator",
+      "ur": "سسٹم ایڈمنسٹریٹر"
+    },
+    {
+      "en": "Cloud computing",
+      "es": "Computación en la nube",
+      "fr": "Informatique en nuage",
+      "de": "Cloud-Computing",
+      "ur": "کلاؤڈ کمپیوٹنگ"
+    },
+    {
+      "en": "Artificial intelligence",
+      "es": "Inteligencia artificial",
+      "fr": "Intelligence artificielle",
+      "de": "Künstliche Intelligenz",
+      "ur": "مصنوعی ذہانت"
+    },
+    {
+      "en": "Data security",
+      "es": "Seguridad de datos",
+      "fr": "Sécurité des données",
+      "de": "Datensicherheit",
+      "ur": "ڈیٹا سیکیورٹی"
+    },
+    {
+      "en": "Network protocol",
+      "es": "Protocolo de red",
+      "fr": "Protocole réseau",
+      "de": "Netzwerkprotokoll",
+      "ur": "نیٹ ورک پروٹوکول"
+    },
+    {
+      "en": "Version control",
+      "es": "Control de versiones",
+      "fr": "Contrôle de version",
+      "de": "Versionskontrolle",
+      "ur": "ورژن کنٹرول"
+    }
+  ],
+  "created_at": "2025-08-15T17:34:49.347625",
+  "count": 10
+}

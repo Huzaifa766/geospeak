@@ -1,0 +1,399 @@
+{
+  "name": "medical_large",
+  "data": [
+    {
+      "en": "Blood pressure",
+      "es": "Presión arterial",
+      "fr": "Tension artérielle",
+      "de": "Blutdruck"
+    },
+    {
+      "en": "Heart rate",
+      "es": "Frecuencia cardíaca",
+      "fr": "Rythme cardiaque",
+      "de": "Herzfrequenz"
+    },
+    {
+      "en": "Body temperature",
+      "es": "Temperatura corporal",
+      "fr": "Température corporelle",
+      "de": "Körpertemperatur"
+    },
+    {
+      "en": "Pulse rate",
+      "es": "Frecuencia del pulso",
+      "fr": "Fréquence du pouls",
+      "de": "Pulsfrequenz"
+    },
+    {
+      "en": "Respiratory rate",
+      "es": "Frecuencia respiratoria",
+      "fr": "Fréquence respiratoire",
+      "de": "Atemfrequenz"
+    },
+    {
+      "en": "Oxygen saturation",
+      "es": "Saturación de oxígeno",
+      "fr": "Saturation en oxygène",
+      "de": "Sauerstoffsättigung"
+    },
+    {
+      "en": "Blood test",
+      "es": "Análisis de sangre",
+      "fr": "Test sanguin",
+      "de": "Blutuntersuchung"
+    },
+    {
+      "en": "X-ray examination",
+      "es": "Examen de rayos X",
+      "fr": "Radiographie",
+      "de": "Röntgenuntersuchung"
+    },
+    {
+      "en": "MRI scan",
+      "es": "Resonancia magnética",
+      "fr": "IRM",
+      "de": "MRT-Untersuchung"
+    },
+    {
+      "en": "CT scan",
+      "es": "Tomografía computarizada",
+      "fr": "Scanner",
+      "de": "CT-Untersuchung"
+    },
+    {
+      "en": "Ultrasound",
+      "es": "Ecografía",
+      "fr": "Échographie",
+      "de": "Ultraschall"
+    },
+    {
+      "en": "Biopsy",
+      "es": "Biopsia",
+      "fr": "Biopsie",
+      "de": "Biopsie"
+    },
+    {
+      "en": "Surgery",
+      "es": "Cirugía",
+      "fr": "Chirurgie",
+      "de": "Operation"
+    },
+    {
+      "en": "Acute pain",
+      "es": "Dolor agudo",
+      "fr": "Douleur aiguë",
+      "de": "Akuter Schmerz"
+    },
+    {
+      "en": "Chronic fatigue",
+      "es": "Fatiga crónica",
+      "fr": "Fatigue chronique",
+      "de": "Chronische Müdigkeit"
+    },
+    {
+      "en": "High fever",
+      "es": "Fiebre alta",
+      "fr": "Fièvre élevée",
+      "de": "Hohes Fieber"
+    },
+    {
+      "en": "Severe headache",
+      "es": "Dolor de cabeza severo",
+      "fr": "Mal de tête sévère",
+      "de": "Starke Kopfschmerzen"
+    },
+    {
+      "en": "Shortness of breath",
+      "es": "Falta de aire",
+      "fr": "Essoufflement",
+      "de": "Atemnot"
+    },
+    {
+      "en": "Chest pain",
+      "es": "Dolor en el pecho",
+      "fr": "Douleur thoracique",
+      "de": "Brustschmerzen"
+    },
+    {
+      "en": "Nausea and vomiting",
+      "es": "Náuseas y vómitos",
+      "fr": "Nausées et vomissements",
+      "de": "Übelkeit und Erbrechen"
+    },
+    {
+      "en": "Cardiovascular system",
+      "es": "Sistema cardiovascular",
+      "fr": "Système cardiovasculaire",
+      "de": "Herz-Kreislauf-System"
+    },
+    {
+      "en": "Respiratory system",
+      "es": "Sistema respiratorio",
+      "fr": "Système respiratoire",
+      "de": "Atmungssystem"
+    },
+    {
+      "en": "Digestive system",
+      "es": "Sistema digestivo",
+      "fr": "Système digestif",
+      "de": "Verdauungssystem"
+    },
+    {
+      "en": "Nervous system",
+      "es": "Sistema nervioso",
+      "fr": "Système nerveux",
+      "de": "Nervensystem"
+    },
+    {
+      "en": "Immune system",
+      "es": "Sistema inmunológico",
+      "fr": "Système immunitaire",
+      "de": "Immunsystem"
+    },
+    {
+      "en": "Prescription medication",
+      "es": "Medicamento con receta",
+      "fr": "Médicament sur ordonnance",
+      "de": "Verschreibungspflichtiges Medikament"
+    },
+    {
+      "en": "Over-the-counter drug",
+      "es": "Medicamento sin receta",
+      "fr": "Médicament en vente libre",
+      "de": "Rezeptfreies Medikament"
+    },
+    {
+      "en": "Antibiotic therapy",
+      "es": "Terapia antibiótica",
+      "fr": "Thérapie antibiotique",
+      "de": "Antibiotikatherapie"
+    },
+    {
+      "en": "Pain management",
+      "es": "Manejo del dolor",
+      "fr": "Gestion de la douleur",
+      "de": "Schmerzbehandlung"
+    },
+    {
+      "en": "Physical therapy",
+      "es": "Fisioterapia",
+      "fr": "Kinésithérapie",
+      "de": "Physiotherapie"
+    },
+    {
+      "en": "Emergency room",
+      "es": "Sala de emergencias",
+      "fr": "Salle d'urgence",
+      "de": "Notaufnahme"
+    },
+    {
+      "en": "Intensive care unit",
+      "es": "Unidad de cuidados intensivos",
+      "fr": "Unité de soins intensifs",
+      "de": "Intensivstation"
+    },
+    {
+      "en": "Cardiac arrest",
+      "es": "Paro cardíaco",
+      "fr": "Arrêt cardiaque",
+      "de": "Herzstillstand"
+    },
+    {
+      "en": "Medical emergency",
+      "es": "Emergencia médica",
+      "fr": "Urgence médicale",
+      "de": "Medizinischer Notfall"
+    },
+    {
+      "en": "First aid",
+      "es": "Primeros auxilios",
+      "fr": "Premiers secours",
+      "de": "Erste Hilfe"
+    },
+    {
+      "en": "The patient has diabetes",
+      "es": "El paciente tiene diabetes",
+      "fr": "Le patient a diabetes",
+      "de": "Der Patient hat diabetes"
+    },
+    {
+      "en": "The patient has hypertension",
+      "es": "El paciente tiene hypertension",
+      "fr": "Le patient a hypertension",
+      "de": "Der Patient hat hypertension"
+    },
+    {
+      "en": "The patient has pneumonia",
+      "es": "El paciente tiene pneumonia",
+      "fr": "Le patient a pneumonia",
+      "de": "Der Patient hat pneumonia"
+    },
+    {
+      "en": "The patient has bronchitis",
+      "es": "El paciente tiene bronchitis",
+      "fr": "Le patient a bronchitis",
+      "de": "Der Patient hat bronchitis"
+    },
+    {
+      "en": "The patient has arthritis",
+      "es": "El paciente tiene arthritis",
+      "fr": "Le patient a arthritis",
+      "de": "Der Patient hat arthritis"
+    },
+    {
+      "en": "The patient has migraine",
+      "es": "El paciente tiene migraine",
+      "fr": "Le patient a migraine",
+      "de": "Der Patient hat migraine"
+    },
+    {
+      "en": "The patient has infection",
+      "es": "El paciente tiene infection",
+      "fr": "Le patient a infection",
+      "de": "Der Patient hat infection"
+    },
+    {
+      "en": "The patient has inflammation",
+      "es": "El paciente tiene inflammation",
+      "fr": "Le patient a inflammation",
+      "de": "Der Patient hat inflammation"
+    },
+    {
+      "en": "Perform a blood test",
+      "es": "Realizar un blood test",
+      "fr": "Effectuer un blood test",
+      "de": "Führen Sie eine blood test durch"
+    },
+    {
+      "en": "Perform a X-ray",
+      "es": "Realizar un X-ray",
+      "fr": "Effectuer un X-ray",
+      "de": "Führen Sie eine X-ray durch"
+    },
+    {
+      "en": "Perform a ultrasound",
+      "es": "Realizar un ultrasound",
+      "fr": "Effectuer un ultrasound",
+      "de": "Führen Sie eine ultrasound durch"
+    },
+    {
+      "en": "Perform a biopsy",
+      "es": "Realizar un biopsy",
+      "fr": "Effectuer un biopsy",
+      "de": "Führen Sie eine biopsy durch"
+    },
+    {
+      "en": "Perform a surgery",
+      "es": "Realizar un surgery",
+      "fr": "Effectuer un surgery",
+      "de": "Führen Sie eine surgery durch"
+    },
+    {
+      "en": "Perform a examination",
+      "es": "Realizar un examination",
+      "fr": "Effectuer un examination",
+      "de": "Führen Sie eine examination durch"
+    },
+    {
+      "en": "Check the heart",
+      "es": "Revisar el heart",
+      "fr": "Vérifier le heart",
+      "de": "Überprüfen Sie die heart"
+    },
+    {
+      "en": "Check the lungs",
+      "es": "Revisar el lungs",
+      "fr": "Vérifier le lungs",
+      "de": "Überprüfen Sie die lungs"
+    },
+    {
+      "en": "Check the liver",
+      "es": "Revisar el liver",
+      "fr": "Vérifier le liver",
+      "de": "Überprüfen Sie die liver"
+    },
+    {
+      "en": "Check the kidneys",
+      "es": "Revisar el kidneys",
+      "fr": "Vérifier le kidneys",
+      "de": "Überprüfen Sie die kidneys"
+    },
+    {
+      "en": "Check the brain",
+      "es": "Revisar el brain",
+      "fr": "Vérifier le brain",
+      "de": "Überprüfen Sie die brain"
+    },
+    {
+      "en": "Check the stomach",
+      "es": "Revisar el stomach",
+      "fr": "Vérifier le stomach",
+      "de": "Überprüfen Sie die stomach"
+    },
+    {
+      "en": "Monitor blood pressure",
+      "es": "Monitorear blood pressure",
+      "fr": "Surveiller blood pressure",
+      "de": "Überwachen Sie blood pressure"
+    },
+    {
+      "en": "Monitor heart rate",
+      "es": "Monitorear heart rate",
+      "fr": "Surveiller heart rate",
+      "de": "Überwachen Sie heart rate"
+    },
+    {
+      "en": "Monitor temperature",
+      "es": "Monitorear temperature",
+      "fr": "Surveiller temperature",
+      "de": "Überwachen Sie temperature"
+    },
+    {
+      "en": "Monitor oxygen levels",
+      "es": "Monitorear oxygen levels",
+      "fr": "Surveiller oxygen levels",
+      "de": "Überwachen Sie oxygen levels"
+    },
+    {
+      "en": "Administer antibiotics",
+      "es": "Administrar antibiotics",
+      "fr": "Administrer antibiotics",
+      "de": "Verabreichen Sie antibiotics"
+    },
+    {
+      "en": "Administer painkillers",
+      "es": "Administrar painkillers",
+      "fr": "Administrer painkillers",
+      "de": "Verabreichen Sie painkillers"
+    },
+    {
+      "en": "Administer insulin",
+      "es": "Administrar insulin",
+      "fr": "Administrer insulin",
+      "de": "Verabreichen Sie insulin"
+    },
+    {
+      "en": "Administer steroids",
+      "es": "Administrar steroids",
+      "fr": "Administrer steroids",
+      "de": "Verabreichen Sie steroids"
+    },
+    {
+      "en": "Administer vitamins",
+      "es": "Administrar vitamins",
+      "fr": "Administrer vitamins",
+      "de": "Verabreichen Sie vitamins"
+    }
+  ],
+  "created_at": "2025-08-15T16:43:01.894308",
+  "count": 64,
+  "source": "custom",
+  "domain": "medical",
+  "languages": [
+    "en",
+    "de",
+    "es",
+    "fr"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "name": "tatoeba_large",
+  "data": [
+    {
+      "en": "Hello, how are you?",
+      "es": "Hola, ¿cómo estás?",
+      "fr": "Bonjour, comment allez-vous?",
+      "de": "Hallo, wie geht es Ihnen?"
+    },
+    {
+      "en": "Good morning",
+      "es": "Buenos días",
+      "fr": "Bonjour",
+      "de": "Guten Morgen"
+    },
+    {
+      "en": "Good afternoon",
+      "es": "Buenas tardes",
+      "fr": "Bon après-midi",
+      "de": "Guten Tag"
+    },
+    {
+      "en": "Good evening",
+      "es": "Buenas noches",
+      "fr": "Bonsoir",
+      "de": "Guten Abend"
+    },
+    {
+      "en": "Nice to meet you",
+      "es": "Mucho gusto",
+      "fr": "Enchanté de vous rencontrer",
+      "de": "Freut mich, Sie kennenzulernen"
+    },
+    {
+      "en": "What is your name?",
+      "es": "¿Cómo te llamas?",
+      "fr": "Comment vous appelez-vous?",
+      "de": "Wie heißen Sie?"
+    },
+    {
+      "en": "Where are you from?",
+      "es": "¿De dónde eres?",
+      "fr": "D'où venez-vous?",
+      "de": "Woher kommen Sie?"
+    },
+    {
+      "en": "How old are you?",
+      "es": "¿Cuántos años tienes?",
+      "fr": "Quel âge avez-vous?",
+      "de": "Wie alt sind Sie?"
+    },
+    {
+      "en": "What do you do?",
+      "es": "¿A qué te dedicas?",
+      "fr": "Que faites-vous?",
+      "de": "Was machen Sie beruflich?"
+    },
+    {
+      "en": "Can you help me?",
+      "es": "¿Puedes ayudarme?",
+      "fr": "Pouvez-vous m'aider?",
+      "de": "Können Sie mir helfen?"
+    },
+    {
+      "en": "Where is the train station?",
+      "es": "¿Dónde está la estación de tren?",
+      "fr": "Où est la gare?",
+      "de": "Wo ist der Bahnhof?"
+    },
+    {
+      "en": "How much does it cost?",
+      "es": "¿Cuánto cuesta?",
+      "fr": "Combien ça coûte?",
+      "de": "Wie viel kostet es?"
+    },
+    {
+      "en": "I need a taxi",
+      "es": "Necesito un taxi",
+      "fr": "J'ai besoin d'un taxi",
+      "de": "Ich brauche ein Taxi"
+    },
+    {
+      "en": "Where is the bathroom?",
+      "es": "¿Dónde está el baño?",
+      "fr": "Où sont les toilettes?",
+      "de": "Wo ist die Toilette?"
+    },
+    {
+      "en": "I'm lost",
+      "es": "Estoy perdido",
+      "fr": "Je suis perdu",
+      "de": "Ich habe mich verirrt"
+    },
+    {
+      "en": "I'm hungry",
+      "es": "Tengo hambre",
+      "fr": "J'ai faim",
+      "de": "Ich habe Hunger"
+    },
+    {
+      "en": "What do you recommend?",
+      "es": "¿Qué recomiendas?",
+      "fr": "Que recommandez-vous?",
+      "de": "Was empfehlen Sie?"
+    },
+    {
+      "en": "The bill, please",
+      "es": "La cuenta, por favor",
+      "fr": "L'addition, s'il vous plaît",
+      "de": "Die Rechnung, bitte"
+    },
+    {
+      "en": "This is delicious",
+      "es": "Esto está delicioso",
+      "fr": "C'est délicieux",
+      "de": "Das ist köstlich"
+    },
+    {
+      "en": "I'm allergic to nuts",
+      "es": "Soy alérgico a las nueces",
+      "fr": "Je suis allergique aux noix",
+      "de": "Ich bin allergisch gegen Nüsse"
+    },
+    {
+      "en": "How much is this?",
+      "es": "¿Cuánto cuesta esto?",
+      "fr": "Combien coûte ceci?",
+      "de": "Wie viel kostet das?"
+    },
+    {
+      "en": "Do you have this in a different size?",
+      "es": "¿Tienes esto en otra talla?",
+      "fr": "Avez-vous ceci dans une autre taille?",
+      "de": "Haben Sie das in einer anderen Größe?"
+    },
+    {
+      "en": "Can I try this on?",
+      "es": "¿Puedo probarme esto?",
+      "fr": "Puis-je l'essayer?",
+      "de": "Kann ich das anprobieren?"
+    },
+    {
+      "en": "I'll take it",
+      "es": "Me lo llevo",
+      "fr": "Je le prends",
+      "de": "Ich nehme es"
+    },
+    {
+      "en": "Do you accept credit cards?",
+      "es": "¿Aceptan tarjetas de crédito?",
+      "fr": "Acceptez-vous les cartes de crédit?",
+      "de": "Nehmen Sie Kreditkarten?"
+    },
+    {
+      "en": "Good morning",
+      "es": "Buenas mañana",
+      "fr": "Bon matin",
+      "de": "Guten Morgen"
+    },
+    {
+      "en": "Good afternoon",
+      "es": "Buenas tarde",
+      "fr": "Bon après-midi",
+      "de": "Guten Nachmittag"
+    },
+    {
+      "en": "Good evening",
+      "es": "Buenas noche",
+      "fr": "Bon soir",
+      "de": "Guten Abend"
+    },
+    {
+      "en": "Good night",
+      "es": "Buenas noche",
+      "fr": "Bon nuit",
+      "de": "Guten Nacht"
+    }
+  ],
+  "created_at": "2025-08-15T16:43:11.936178",
+  "count": 29,
+  "source": "tatoeba",
+  "domain": "conversational",
+  "languages": [
+    "en",
+    "de",
+    "es",
+    "fr"
+  ]
+}

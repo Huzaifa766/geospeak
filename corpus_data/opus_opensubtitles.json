@@ -1,0 +1,77 @@
+{
+  "name": "opus_opensubtitles",
+  "data": [
+    {
+      "en": "Hello, how are you?",
+      "es": "Hola, ¿cómo estás?",
+      "fr": "Salut, comment ça va?",
+      "de": "Hallo, wie geht es dir?",
+      "ur": "ہیلو، آپ کیسے ہیں؟"
+    },
+    {
+      "en": "Nice to meet you!",
+      "es": "¡Encantado de conocerte!",
+      "fr": "Ravi de vous rencontrer!",
+      "de": "Freut mich, dich kennenzulernen!",
+      "ur": "آپ سے مل کر خوشی ہوئی!"
+    },
+    {
+      "en": "What's your name?",
+      "es": "¿Cómo te llamas?",
+      "fr": "Comment tu t'appelles?",
+      "de": "Wie heißt du?",
+      "ur": "آپ کا نام کیا ہے؟"
+    },
+    {
+      "en": "I'm fine, thank you",
+      "es": "Estoy bien, gracias",
+      "fr": "Je vais bien, merci",
+      "de": "Mir geht es gut, danke",
+      "ur": "میں ٹھیک ہوں، شکریہ"
+    },
+    {
+      "en": "See you later!",
+      "es": "¡Hasta luego!",
+      "fr": "À plus tard!",
+      "de": "Bis später!",
+      "ur": "بعد میں ملیں گے!"
+    },
+    {
+      "en": "Good morning!",
+      "es": "¡Buenos días!",
+      "fr": "Bonjour!",
+      "de": "Guten Morgen!",
+      "ur": "صبح بخیر!"
+    },
+    {
+      "en": "Have a great day!",
+      "es": "¡Que tengas un buen día!",
+      "fr": "Passez une excellente journée!",
+      "de": "Hab einen schönen Tag!",
+      "ur": "آپ کا دن اچھا گزرے!"
+    },
+    {
+      "en": "I love this movie",
+      "es": "Me encanta esta película",
+      "fr": "J'adore ce film",
+      "de": "Ich liebe diesen Film",
+      "ur": "مجھے یہ فلم پسند ہے"
+    },
+    {
+      "en": "What time is it?",
+      "es": "¿Qué hora es?",
+      "fr": "Quelle heure est-il?",
+      "de": "Wie spät ist es?",
+      "ur": "کیا وقت ہے؟"
+    },
+    {
+      "en": "I'm sorry",
+      "es": "Lo siento",
+      "fr": "Je suis désolé",
+      "de": "Es tut mir leid",
+      "ur": "میں معافی چاہتا ہوں"
+    }
+  ],
+  "created_at": "2025-08-15T17:34:49.346505",
+  "count": 10
+}
