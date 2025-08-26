@@ -1,0 +1,146 @@
+{
+  "test_timestamp": "2025-08-26 05:10:26",
+  "test_duration_seconds": 0.13864970207214355,
+  "overall_metrics": {
+    "semantic_similarity": 0.0,
+    "bleu_score": 0.0,
+    "domain_classification_accuracy": 0.0
+  },
+  "domain_results": [
+    {
+      "domain": "medical",
+      "corpus_name": "medical_terminology",
+      "language_scores": {},
+      "average_semantic_similarity": 0.0,
+      "average_bleu_score": 0.0,
+      "test_cases_count": 2,
+      "errors": [
+        "Error testing Take this medication twice daily -> es: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Blood pressure measurement -> es: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Take this medication twice daily -> fr: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Blood pressure measurement -> fr: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Take this medication twice daily -> de: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Blood pressure measurement -> de: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Take this medication twice daily -> ur: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Blood pressure measurement -> ur: 'CorpusManager' object has no attribute 'find_similar'"
+      ]
+    },
+    {
+      "domain": "business",
+      "corpus_name": "business_common",
+      "language_scores": {},
+      "average_semantic_similarity": 0.0,
+      "average_bleu_score": 0.0,
+      "test_cases_count": 2,
+      "errors": [
+        "Error testing Schedule a meeting for tomorrow -> es: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Quarterly financial report -> es: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Schedule a meeting for tomorrow -> fr: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Quarterly financial report -> fr: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Schedule a meeting for tomorrow -> de: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Quarterly financial report -> de: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Schedule a meeting for tomorrow -> ur: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Quarterly financial report -> ur: 'CorpusManager' object has no attribute 'find_similar'"
+      ]
+    },
+    {
+      "domain": "legal",
+      "corpus_name": "legal_formal",
+      "language_scores": {},
+      "average_semantic_similarity": 0.0,
+      "average_bleu_score": 0.0,
+      "test_cases_count": 1,
+      "errors": [
+        "Error testing Legal agreement and contract -> es: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Legal agreement and contract -> fr: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Legal agreement and contract -> de: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Legal agreement and contract -> ur: 'CorpusManager' object has no attribute 'find_similar'"
+      ]
+    },
+    {
+      "domain": "travel",
+      "corpus_name": "travel_tourism",
+      "language_scores": {},
+      "average_semantic_similarity": 0.0,
+      "average_bleu_score": 0.0,
+      "test_cases_count": 1,
+      "errors": [
+        "Error testing Hotel reservation confirmation -> es: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Hotel reservation confirmation -> fr: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Hotel reservation confirmation -> de: 'CorpusManager' object has no attribute 'find_similar'",
+        "Error testing Hotel reservation confirmation -> ur: 'CorpusManager' object has no attribute 'find_similar'"
+      ]
+    }
+  ],
+  "retrieval_results": {
+    "queries_tested": 9,
+    "retrieval_results": [
+      {
+        "query": "I need a prescription",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "medical"
+      },
+      {
+        "query": "Schedule a meeting",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "business"
+      },
+      {
+        "query": "Court hearing",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "legal"
+      },
+      {
+        "query": "Hotel reservation",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "travel"
+      },
+      {
+        "query": "Database connection",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "technical"
+      },
+      {
+        "query": "Blood pressure",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "medical"
+      },
+      {
+        "query": "Legal contract",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "legal"
+      },
+      {
+        "query": "Flight booking",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "travel"
+      },
+      {
+        "query": "Software development",
+        "corpus_scores": {},
+        "best_match": null,
+        "expected_domain": "technical"
+      }
+    ],
+    "domain_classification_accuracy": 0.0
+  },
+  "system_info": {
+    "total_corpora": 20,
+    "languages_tested": [
+      "es",
+      "fr",
+      "de",
+      "ur"
+    ],
+    "embedding_model": "all-MiniLM-L6-v2",
+    "multilingual_model": "paraphrase-multilingual-MiniLM-L12-v2"
+  }
+}

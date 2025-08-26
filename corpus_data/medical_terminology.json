@@ -16,6 +16,76 @@
       "ur": "دل کی رفتار"
     },
     {
+      "en": "Body temperature",
+      "es": "Temperatura corporal",
+      "fr": "Température corporelle",
+      "de": "Körpertemperatur",
+      "ur": "جسم کا درجہ حرارت"
+    },
+    {
+      "en": "Check your temperature",
+      "es": "Revisa tu temperatura",
+      "fr": "Vérifiez votre température",
+      "de": "Überprüfen Sie Ihre Temperatur",
+      "ur": "اپنا درجہ حرارت چیک کریں"
+    },
+    {
+      "en": "You have a fever",
+      "es": "Tienes fiebre",
+      "fr": "Vous avez de la fièvre",
+      "de": "Sie haben Fieber",
+      "ur": "آپ کو بخار ہے"
+    },
+    {
+      "en": "Feeling hot and feverish",
+      "es": "Sintiéndose caliente y febril",
+      "fr": "Se sentir chaud et fiévreux",
+      "de": "Heiß und fiebrig fühlen",
+      "ur": "بخار اور گرمی محسوس کرنا"
+    },
+    {
+      "en": "You feel warm",
+      "es": "Te sientes caliente",
+      "fr": "Vous vous sentez chaud",
+      "de": "Sie fühlen sich warm",
+      "ur": "آپ گرم محسوس کر رہے ہیں"
+    },
+    {
+      "en": "Running a temperature",
+      "es": "Teniendo temperatura alta",
+      "fr": "Avoir de la température",
+      "de": "Temperatur haben",
+      "ur": "تیز بخار ہے"
+    },
+    {
+      "en": "Feeling depressed",
+      "es": "Sintiéndose deprimido",
+      "fr": "Se sentir déprimé",
+      "de": "Sich deprimiert fühlen",
+      "ur": "ڈپریشن محسوس کرنا"
+    },
+    {
+      "en": "Mental health support",
+      "es": "Apoyo de salud mental",
+      "fr": "Soutien en santé mentale",
+      "de": "Unterstützung für psychische Gesundheit",
+      "ur": "ذہنی صحت کی مدد"
+    },
+    {
+      "en": "Feeling sad or blue",
+      "es": "Sintiéndose triste",
+      "fr": "Se sentir triste ou déprimé",
+      "de": "Sich traurig oder niedergeschlagen fühlen",
+      "ur": "اداس یا پریشان محسوس کرنا"
+    },
+    {
+      "en": "Mood disorders",
+      "es": "Trastornos del estado de ánimo",
+      "fr": "Troubles de l'humeur",
+      "de": "Stimmungsstörungen",
+      "ur": "موڈ کی خرابی"
+    },
+    {
       "en": "Take this medication twice daily",
       "es": "Tome este medicamento dos veces al día",
       "fr": "Prenez ce médicament deux fois par jour",
@@ -28,6 +98,20 @@
       "fr": "Vous devez vous reposer",
       "de": "Du musst dich ausruhen",
       "ur": "آپ کو آرام کرنا چاہیے"
+    },
+    {
+      "en": "Stay hydrated",
+      "es": "Manténgase hidratado",
+      "fr": "Restez hydraté",
+      "de": "Bleiben Sie hydratisiert",
+      "ur": "پانی پیتے رہیں"
+    },
+    {
+      "en": "Get plenty of rest",
+      "es": "Descanse mucho",
+      "fr": "Reposez-vous beaucoup",
+      "de": "Viel Ruhe bekommen",
+      "ur": "خوب آرام کریں"
     },
     {
       "en": "Emergency room",
@@ -70,8 +154,29 @@
       "fr": "Traitement",
       "de": "Behandlung",
       "ur": "علاج"
+    },
+    {
+      "en": "Not feeling well",
+      "es": "No me siento bien",
+      "fr": "Je ne me sens pas bien",
+      "de": "Fühle mich nicht wohl",
+      "ur": "طبیعت ٹھیک نہیں"
+    },
+    {
+      "en": "Under the weather",
+      "es": "Sintiéndose mal",
+      "fr": "Pas dans son assiette",
+      "de": "Nicht ganz fit",
+      "ur": "طبیعت خراب ہے"
+    },
+    {
+      "en": "Health checkup",
+      "es": "Chequeo médico",
+      "fr": "Bilan de santé",
+      "de": "Gesundheitscheck",
+      "ur": "طبی معائنہ"
     }
   ],
-  "created_at": "2025-08-15T17:44:37.759009",
-  "count": 10
+  "created_at": "2025-08-26T11:21:26.730714",
+  "count": 25
 }
