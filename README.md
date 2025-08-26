@@ -24,7 +24,7 @@ GeoSpeak is an intelligent, real-time web application that leverages Google Gemi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AunSyedShah/geospeak.git
+   git clone https://github.com/a-rehman26/geospeak.git
    cd geospeak
    ```
 
